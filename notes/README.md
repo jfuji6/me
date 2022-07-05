@@ -1,6 +1,6 @@
-# Taking notes
+# Taking Notes
 
-## Guidelines to watch out for.
+## Guidelines
 
 * Title less than 50 UNICODE chars
 * Body about 25-30 lines

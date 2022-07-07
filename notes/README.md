@@ -1,4 +1,5 @@
 # Taking Notes
+Toying with the idea of keeping notes on gihub
 
 ## Guidelines
 
